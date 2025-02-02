@@ -11,4 +11,7 @@ var result= num1 * num2;
 document.write("Mul = "+result+"<br>" );
 
 var result= num1 / num2;
-document.write("Dev = "+result);
+document.write("Dev = "+result+ "<br>");
+
+var result= num1 % num2;
+document.write("Reminder = "+result);
