@@ -8,4 +8,7 @@ var result= num1 - num2;
 document.write("Sub = "+result+ "<br>");
 
 var result= num1 * num2;
-document.write("Mul = "+result);
+document.write("Mul = "+result+"<br>" );
+
+var result= num1 / num2;
+document.write("Dev = "+result);
