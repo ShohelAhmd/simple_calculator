@@ -5,4 +5,7 @@ var result= num1+num2;
 document.write("Sum = "+result+"<br>");
 
 var result= num1 - num2;
-document.write("Sub = "+result);
+document.write("Sub = "+result+ "<br>");
+
+var result= num1 * num2;
+document.write("Mul = "+result);
